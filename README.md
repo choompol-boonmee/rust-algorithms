@@ -45,19 +45,19 @@ cargo test
 
 ### Graphs
 
-- [x] [Dijkstra](./src/graph/dijkstra.rs)
-- [x] [Kruskal's Minimum Spanning Tree](./src/graph/minimum_spanning_tree.rs)
-- [x] [Prim's Minimum Spanning Tree](./src/graph/prim.rs)
-- [x] [Breadth-First Search (BFS)](./src/graph/breadth_first_search.rs)
-- [x] [Depth First Search (DFS)](./src/graph/depth_first_search.rs)
-- [x] [Bellman-Ford](./src/graph/bellman_ford.rs)
-- [x] [Prufer Code](./src/graph/prufer_code.rs)
-- [x] [Lowest Common Ancestor](./src/graph/lowest_common_ancestor.rs)
-- [x] [Heavy Light Decomposition](./src/graph/heavy_light_decomposition.rs)
-- [x] [Tarjan's Strongly Connected Components](./src/graph/strongly_connected_components.rs)
-- [x] [Topological sorting](./src/graph/topological_sort.rs)
-- [x] [Centroid Decomposition](./src/graph/centroid_decomposition.rs)
-- [x] [Dinic's Max Flow](./src/graph/dinic_maxflow.rs)
+- [x] [Dijkstra](./src/graphs/dijkstra.rs)
+- [x] [Kruskal's Minimum Spanning Tree](./src/graphs/minimum_spanning_tree.rs)
+- [x] [Prim's Minimum Spanning Tree](./src/graphs/prim.rs)
+- [x] [Breadth-First Search (BFS)](./src/graphs/breadth_first_search.rs)
+- [x] [Depth First Search (DFS)](./src/graphs/depth_first_search.rs)
+- [x] [Bellman-Ford](./src/graphs/bellman_ford.rs)
+- [x] [Prufer Code](./src/graphs/prufer_code.rs)
+- [x] [Lowest Common Ancestor](./src/graphs/lowest_common_ancestor.rs)
+- [x] [Heavy Light Decomposition](./src/graphs/heavy_light_decomposition.rs)
+- [x] [Tarjan's Strongly Connected Components](./src/graphs/strongly_connected_components.rs)
+- [x] [Topological sorting](./src/graphs/topological_sort.rs)
+- [x] [Centroid Decomposition](./src/graphs/centroid_decomposition.rs)
+- [x] [Dinic's Max Flow](./src/graphs/dinic_maxflow.rs)
 
 ### Dynamic Programming
 
